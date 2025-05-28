@@ -1,5 +1,7 @@
     #!/bin/bash
-    # enter your array comparison code here
+    
+    # Challenge from some online platform
+    # Compares three arrays and print out the numbers common to all of them
 
     a=(3 5 8 10 6)
     b=(6 5 4 12)
