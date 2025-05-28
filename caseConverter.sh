@@ -1,3 +1,7 @@
+#! bin/bash
+
+# Convert either the file name, or its content to upppercase or lowercase
+
 caseConverter()
 {
 	local opt_upper=0
