@@ -1,3 +1,8 @@
+#! /bin/bash
+
+# The goal here is to get either the name of a file without its path or its path without its name
+# It was a way to practice pattern removal in bash
+
 nameextractor()
 {
     local opt_name=0
